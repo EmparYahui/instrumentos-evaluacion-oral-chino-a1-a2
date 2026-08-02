@@ -15,7 +15,7 @@ El conjunto está formado por:
   - **Producción**, centrada en los aspectos segmentales (fonológicos) y suprasegmentales (prosódicos) de la expresión oral;
   - **Recepción**, centrada en los procesos perceptivos y de comprensión oral;
 - una **plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o actividad comunicativa;
-- una guía de interpretación de evidencias orientada a la elaboración de *feedback* y *feedforward.*
+- una **guía de interpretación de evidencias** orientada a la elaboración de *feedback* y *feedforward.*
 
 La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la competencia oral.
 
