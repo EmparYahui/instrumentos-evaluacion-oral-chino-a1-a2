@@ -1,6 +1,6 @@
 # Instrumentos de evaluación oral
 
-## A1 (Acceso 1)
+## A1 MCER (Acceso 1)
 
 Estos instrumentos están diseñados para observar y valorar el desarrollo de la competencia oral en chino como lengua extranjera correspondiente al nivel A1 (Acceso 1) del MCER.
 
