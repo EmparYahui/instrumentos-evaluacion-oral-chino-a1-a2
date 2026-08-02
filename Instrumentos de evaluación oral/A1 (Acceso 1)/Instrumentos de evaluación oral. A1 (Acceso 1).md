@@ -14,7 +14,7 @@ La valoración se realiza seleccionando el descriptor (A-D) que mejor representa
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad del estudiante para participar en intercambios orales básicos en chino mandarín dentro de situaciones comunicativas conocidas y previamente trabajadas.
+Esta rúbrica permite analizar los aspectos relacionados con la producción oral en chino como lengua extranjera en un nivel inicial.
 
 Se centra en tres dimensiones:
 
@@ -36,12 +36,12 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 ## Finalidad
 
-Esta rúbrica permite analizar los aspectos relacionados con la producción oral del chino mandarín en un nivel inicial.
+Esta rúbrica permite analizar los aspectos relacionados con la producción oral del chino en un nivel inicial.
 
 Se centra en tres aspectos:
 
 - **Tonos:** control inicial de los contrastes tonales.
-- **Sonidos:** realización de los sonidos y sílabas del chino mandarín.
+- **Sonidos:** realización de los sonidos y sílabas del chino.
 - **Inteligibilidad:** grado en que el mensaje puede ser comprendido por el interlocutor.
 
 El docente seleccionará el descriptor que mejor represente el desempeño observado.
@@ -49,7 +49,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 | | A | B | C | D |
 |---|---|---|---|---|
 | **Tonos** | Produce los tonos trabajados de forma generalmente adecuada en palabras y expresiones frecuentes. Los errores no afectan habitualmente al significado. | Produce correctamente la mayoría de los tonos trabajados, aunque aparecen errores ocasionales en palabras o expresiones menos automatizadas. | Confunde varios tonos frecuentes y necesita apoyo del modelo oral para corregir la producción. Algunos errores afectan al significado. | Presenta dificultades constantes en la producción tonal. Los errores impiden identificar correctamente muchas palabras. |
-| **Sonidos** | Articula de forma comprensible los sonidos y sílabas trabajados, aunque pueda presentar rasgos propios de un nivel inicial. | Produce la mayoría de los sonidos trabajados, con dificultades puntuales en algunos contrastes fonéticos. | Presenta dificultades frecuentes en determinados sonidos del chino mandarín y necesita repetición o corrección del modelo. | Las dificultades fonéticas afectan significativamente a la comprensión del mensaje. |
+| **Sonidos** | Articula de forma comprensible los sonidos y sílabas trabajados, aunque pueda presentar rasgos propios de un nivel inicial. | Produce la mayoría de los sonidos trabajados, con dificultades puntuales en algunos contrastes fonéticos. | Presenta dificultades frecuentes en determinados sonidos del chino y necesita repetición o corrección del modelo. | Las dificultades fonéticas afectan significativamente a la comprensión del mensaje. |
 | **Inteligibilidad** | El mensaje se comprende con facilidad dentro del contexto de la actividad. La pronunciación permite mantener la comunicación. | El mensaje resulta comprensible, aunque el interlocutor debe realizar algún esfuerzo ocasional. | El mensaje se comprende parcialmente y requiere apoyo frecuente del interlocutor. | La pronunciación dificulta la comprensión global del mensaje. |
 
 ---
@@ -58,7 +58,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad inicial del estudiante para percibir y procesar mensajes orales en chino mandarín.
+Esta rúbrica permite valorar la capacidad inicial del estudiante para percibir y procesar mensajes orales en chino como lengua extranjera.
 
 Se centra en tres aspectos:
 
