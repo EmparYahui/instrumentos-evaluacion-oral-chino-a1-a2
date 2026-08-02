@@ -6,7 +6,7 @@ Estos instrumentos están diseñados para observar y valorar el desarrollo de la
 
 El conjunto incluye tres rúbricas de análisis —comunicación, producción y recepción oral— y una plantilla de registro in situ. Su finalidad es facilitar la recogida sistemática de evidencias durante una interacción oral, una actividad de aula o el análisis de una grabación.
 
-En este nivel, el estudiante comienza a utilizar los recursos lingüísticos adquiridos con mayor estabilidad y autonomía. La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador.
+La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación y orientar futuras actuaciones de aprendizaje.
 
 ---
 
