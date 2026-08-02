@@ -135,3 +135,13 @@ La interpretación de las evidencias recogidas mediante las rúbricas permite id
 | Requiere repetición frecuente del modelo para producir expresiones básicas | Dependencia inicial del apoyo externo para la producción oral | Puedes reproducir expresiones conocidas con ayuda, pero necesitas avanzar hacia una producción más autónoma. | Repite expresiones breves de forma progresiva sin escuchar previamente el modelo completo. |
 | Comprende palabras trabajadas en clase, pero tiene dificultades para reconocerlas en mensajes breves | Reconocimiento auditivo limitado al vocabulario memorizado | Identificas palabras conocidas, pero necesitas acostumbrarte a reconocerlas dentro de mensajes orales. | Realiza escuchas breves sin texto escrito e intenta localizar palabras conocidas dentro del mensaje. |
 | Participa en intercambios muy guiados, pero necesita apoyo para responder con autonomía | Inicio de la construcción de estrategias de interacción oral | Puedes responder en situaciones conocidas, pero todavía necesitas ganar seguridad para producir respuestas propias. | Practica preguntas y respuestas breves utilizando variaciones de estructuras ya aprendidas. |
+
+---
+
+## Navegación del recurso
+
+- [README del recurso](../../README.md)
+- [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
+- [A1 (Acceso 2)](../A1%20(Acceso%202)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%202).md)
+- [A2 (Plataforma 1)](../A2%20(Plataforma%201)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%201).md)
+- [A2 (Plataforma 2)](../A2%20(Plataforma%202)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%202).md)
