@@ -19,16 +19,16 @@ La valoración se realiza mediante la selección del descriptor (A-D) que mejor 
 
 ---
 
-# Progresión del desarrollo oral
+## Progresión de la competencia oral
 
-Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde a un momento de desarrollo esperado y permite observar la evolución desde la adquisición de las bases perceptivas y productivas del chino mandarín hasta una comunicación oral básica más autónoma.
+Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia oral esperado y permite observar la evolución desde la adquisición de las bases perceptivas y productivas del chino mandarín hasta una comunicación oral básica más autónoma.
 
-| Nivel MCER | Foco de desarrollo oral esperado | Principales aspectos observables |
+| Nivel MCER | Foco de competencia oral esperado | Principales aspectos observables |
 |---|---|---|
-| **A1 (Acceso 1)** | Construcción de las bases perceptivas y productivas del sistema oral del chino mandarín | Reconocimiento inicial de tonos y contrastes fonológicos; producción de sílabas y expresiones básicas; dependencia de modelos orales claros y repetición frecuente. |
-| **A1 (Acceso 2)** | Consolidación de patrones fonológicos y aumento de autonomía en intercambios básicos | Mayor estabilidad tonal; reducción de errores que afectan al significado; reconocimiento de expresiones habituales con menor apoyo; participación en conversaciones previsibles. |
-| **A2 (Plataforma 1)** | Ampliación de recursos lingüísticos y capacidad para procesar secuencias orales más complejas | Producción de enunciados más extensos; combinación más estable de tonos en cadena; comprensión de mensajes breves menos dependientes del contexto inmediato. |
-| **A2 (Plataforma 2)** | Desarrollo de autonomía comunicativa y menor dependencia del habla controlada | Mayor naturalidad en producción e interacción; comprensión de variaciones habituales del habla; capacidad para mantener intercambios funcionales con menor apoyo del interlocutor. |
+| **A1<br>(Acceso 1)** | Construcción de las bases perceptivas y productivas del sistema oral del chino mandarín | Reconocimiento inicial de tonos y contrastes fonológicos; producción de sílabas y expresiones básicas; dependencia de modelos orales claros y repetición frecuente. |
+| **A1<br>(Acceso 2)** | Consolidación de patrones fonológicos y aumento de autonomía en intercambios básicos | Mayor estabilidad tonal; reducción de errores que afectan al significado; reconocimiento de expresiones habituales con menor apoyo; participación en conversaciones previsibles. |
+| **A2<br>(Plataforma 1)** | Ampliación de recursos lingüísticos y capacidad para procesar secuencias orales más complejas | Producción de enunciados más extensos; combinación más estable de tonos en cadena; comprensión de mensajes breves menos dependientes del contexto inmediato. |
+| **A2<br>(Plataforma 2)** | Desarrollo de autonomía comunicativa y menor dependencia del habla controlada | Mayor naturalidad en producción e interacción; comprensión de variaciones habituales del habla; capacidad para mantener intercambios funcionales con menor apoyo del interlocutor. |
 
 ---
 
@@ -36,7 +36,7 @@ Los instrumentos se organizan según una progresión de niveles correspondiente 
 
 Cada nivel incluye un conjunto específico de rúbricas y una plantilla de registro adaptada al desarrollo esperado:
 
-| Nivel | Instrumento |
+| Nivel MCER | Instrumento |
 |---|---|
 | A1 (Acceso 1) | [Instrumentos de evaluación oral. A1 (Acceso 1)](./A1_Acceso_1.md) |
 | A1 (Acceso 2) | [Instrumentos de evaluación oral. A1 (Acceso 2)](./A1_Acceso_2.md) |
