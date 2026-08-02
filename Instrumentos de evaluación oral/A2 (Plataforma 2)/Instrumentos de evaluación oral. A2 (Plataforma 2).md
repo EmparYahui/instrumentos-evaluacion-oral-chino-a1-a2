@@ -152,3 +152,12 @@ La interpretación de las evidencias recogidas mediante las rúbricas permite id
 | Comprende la información principal, pero tiene dificultades ante variaciones habituales de pronunciación o velocidad | Dependencia de un input oral muy controlado | Comprendes mensajes claros, pero necesitas ampliar tu capacidad para adaptarte a diferentes formas de habla. | Escucha materiales con distintos ritmos y practica la identificación de información relevante sin apoyo escrito. |
 | Responde a preguntas directas, pero tiene dificultades para desarrollar o ampliar sus respuestas | Recursos interactivos todavía limitados | Respondes adecuadamente, pero necesitas ampliar la información y mantener la conversación durante más tiempo. | Practica estrategias de ampliación: añadir detalles, explicar motivos y relacionar ideas. |
 | Ante una dificultad de comprensión, espera la ayuda del interlocutor en lugar de utilizar estrategias propias | Uso limitado de estrategias compensatorias | Puedes mantener la interacción cuando recibes apoyo, pero necesitas resolver más situaciones de forma autónoma. | Practica reformulación, solicitud de aclaración, confirmación de significado y otras estrategias de reparación. |
+---
+
+## Navegación del recurso
+
+- [README del recurso](../../README.md)
+- [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
+- [A1 (Acceso 1)](../A1%20(Acceso%201)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%201).md)
+- [A1 (Acceso 2)](../A1%20(Acceso%202)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%202).md)
+- [A2 (Plataforma 1)](../A2%20(Plataforma%201)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%201).md)
