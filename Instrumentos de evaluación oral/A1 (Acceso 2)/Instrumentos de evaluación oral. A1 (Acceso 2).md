@@ -12,7 +12,7 @@ La valoración se realiza seleccionando el descriptor (A-D) que mejor representa
 
 # Evolución esperada respecto a A1 (Acceso 1)
 
-En A1 (Acceso 2), el estudiante ya ha iniciado la construcción de las bases orales del chino mandarín. Por ello, la observación del desempeño no se centra únicamente en la producción correcta de elementos aislados, sino en la capacidad para utilizarlos dentro de intercambios comunicativos sencillos.
+En A1 (Acceso 2), el estudiante ya ha iniciado la construcción de las bases orales del chino. Por ello, la observación del desempeño no se centra únicamente en la producción correcta de elementos aislados, sino en la capacidad para utilizarlos dentro de intercambios comunicativos sencillos.
 
 Respecto al nivel A1 (Acceso 1), se espera observar:
 
@@ -31,7 +31,7 @@ Esta evolución permite interpretar los resultados como una orientación para el
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad del estudiante para participar en intercambios orales básicos en chino mandarín en situaciones conocidas, utilizando recursos lingüísticos trabajados y mostrando una autonomía progresiva.
+Esta rúbrica permite valorar la capacidad del estudiante para participar en intercambios orales básicos en chino en situaciones conocidas, utilizando recursos lingüísticos trabajados y mostrando una autonomía progresiva.
 
 Se centra en tres dimensiones:
 
@@ -53,7 +53,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 ## Finalidad
 
-Esta rúbrica permite analizar la evolución de la producción oral en chino mandarín, especialmente la estabilidad de los rasgos fonológicos básicos y su impacto en la comunicación.
+Esta rúbrica permite analizar la evolución de la producción oral en chino, especialmente la estabilidad de los rasgos fonológicos básicos y su impacto en la comunicación.
 
 Se centra en tres aspectos:
 
@@ -75,7 +75,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad del estudiante para percibir y procesar mensajes orales en chino mandarín con menor dependencia del apoyo visual y contextual.
+Esta rúbrica permite valorar la capacidad del estudiante para percibir y procesar mensajes orales en chino con menor dependencia del apoyo visual y contextual.
 
 Se centra en tres aspectos:
 
