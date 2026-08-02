@@ -10,7 +10,7 @@ La valoración se realiza seleccionando el descriptor (A-D) que mejor representa
 
 ---
 
-# Instrumento 1. Rúbrica de análisis comunicativo de la conversación
+# Instrumento 1. Rúbrica de análisis comunicativo de la producción oral
 
 ## Finalidad
 
