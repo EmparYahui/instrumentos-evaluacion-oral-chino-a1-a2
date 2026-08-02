@@ -157,8 +157,10 @@ La interpretación de las evidencias recogidas mediante las rúbricas permite id
 
 ## Navegación del recurso
 
+## Navegación del recurso
+
 - [README del recurso](../../README.md)
 - [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
-- [A1 (Acceso 1)](../A1%20(Acceso%201)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%201).md)
-- [A1 (Acceso 2)](../A1%20(Acceso%202)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%202).md)
-- [A2 (Plataforma 2)](../A2%20(Plataforma%202)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%202).md)
+- [A1 (Acceso 1)](../A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20oral.%20A1%20(Acceso%201).md)
+- [A2 (Plataforma 1)](../A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20oral.%20A2%20(Plataforma%201).md)
+- [A2 (Plataforma 2)](../A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluación%20de%20la%20comunicación%20oral.%20A2%20(Plataforma%202).md)
