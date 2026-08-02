@@ -10,7 +10,7 @@ Los instrumentos tienen como finalidad facilitar la recogida sistemática de evi
 
 El conjunto está formado por:
 
-- tres rúbricas de análisis del desempeño oral:
+- tres **rúbricas** de análisis del desempeño oral:
   - **Comunicación**, centrada en la comprensión, expresión e interacción oral;
   - **Producción**, centrada en los aspectos segmentales (fonológicos) y suprasegmentales (prosódicos) de la expresión oral;
   - **Recepción**, centrada en los procesos perceptivos y de comprensión oral;
