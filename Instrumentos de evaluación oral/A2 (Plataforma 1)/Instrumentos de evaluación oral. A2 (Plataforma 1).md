@@ -152,3 +152,13 @@ La interpretación de las evidencias recogidas mediante las rúbricas permite id
 | Comprende información principal de mensajes conocidos, pero pierde detalles cuando aumenta la complejidad | Procesamiento auditivo limitado ante mayor carga lingüística | Identificas la idea general, pero necesitas mejorar la atención a detalles y relaciones entre elementos del mensaje. | Escucha mensajes breves varias veces con objetivos diferentes: identificar palabras clave, información principal y detalles. |
 | Responde adecuadamente, pero depende de preguntas muy estructuradas para mantener la interacción | Desarrollo insuficiente de estrategias comunicativas autónomas | Puedes responder en situaciones habituales, pero necesitas ampliar tus recursos para mantener el intercambio. | Practica preguntas de seguimiento, reformulación y ampliación de respuestas. |
 | Identifica palabras conocidas, pero tiene dificultades para inferir significado a partir del contexto oral | Dependencia del reconocimiento léxico directo | Reconoces vocabulario aprendido, pero necesitas utilizar más información del contexto para comprender mensajes nuevos. | Realiza actividades de escucha en las que tengas que anticipar significado mediante claves lingüísticas y situacionales. |
+
+---
+
+## Navegación del recurso
+
+- [README del recurso](../../README.md)
+- [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
+- [A1 (Acceso 1)](../A1%20(Acceso%201)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%201).md)
+- [A1 (Acceso 2)](../A1%20(Acceso%202)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%202).md)
+- [A2 (Plataforma 2)](../A2%20(Plataforma%202)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%202).md)
