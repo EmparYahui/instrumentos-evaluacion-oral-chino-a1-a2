@@ -1,8 +1,9 @@
 # Instrumentos de evaluación oral en chino <br>como lengua extranjera (A1-A2 MCER)
 
+
 ## Presentación
 
-Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desarrollo de la competencia oral en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del MCER).
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en competencia oral en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del MCER).
 
 Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de interacción oral, tareas comunicativas o análisis de grabaciones. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos fonológicos y perceptivos específicos del chino mandarín.
 
@@ -10,7 +11,7 @@ El conjunto está formado por:
 
 - tres rúbricas de análisis del desempeño oral:
   - **Comunicación**, centrada en la comprensión, expresión e interacción oral;
-  - **Producción**, centrada en los aspectos fonológicos de la producción oral;
+  - **Producción**, centrada en los aspectos segmentales (fonológicos) y suprasegmentales (prosódicos) de la expresión oral;
   - **Recepción**, centrada en los procesos perceptivos y de comprensión oral;
 - una **plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o actividad comunicativa;
 - una guía de interpretación de evidencias orientada a la elaboración de *feedback* y *feedforward.*
@@ -60,7 +61,7 @@ La plantilla de registro in situ permite recoger evidencias de manera rápida me
 
 # De la evidencia observada a la mejora del aprendizaje
 
-La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en la competencia oral y orientar la intervención docente. La siguiente tabla muestra ejemplos de cómo interpretar algunos patrones observables y transformarlos en orientaciones de mejora mediante *feedback* y *feedforward*.
+La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en la competencia oral y orientar la intervención docente. La siguiente tabla muestra ejemplos generales de interpretación de evidencias observables y de transformación de dichas evidencias en orientaciones de mejora mediante retroalimentación *(feedback)* y proalimentación *(feedforward).*
 
 | Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
 |---|---|---|---|
@@ -75,4 +76,25 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
 
-Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar el desarrollo gradual de la competencia oral en chino como lengua extranjera.
+Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la competencia oral en chino como lengua extranjera.
+
+---
+
+# Cómo citar este recurso
+
+Si utiliza este recurso en actividades docentes, investigación o difusión académica, se recomienda citarlo de la siguiente forma:
+
+Liu-Zhou, E. Y. (2026). *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2).* Recurso educativo abierto.
+
+La referencia puede adaptarse según el estilo bibliográfico empleado por cada contexto académico o institucional.
+
+---
+
+# Licencia
+
+Este recurso se distribuye bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+
+Esta licencia permite reutilizar, adaptar y redistribuir el material siempre que se reconozca la autoría, no se utilice con fines comerciales y las versiones modificadas mantengan la misma licencia.
+
+Más información sobre la licencia:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
