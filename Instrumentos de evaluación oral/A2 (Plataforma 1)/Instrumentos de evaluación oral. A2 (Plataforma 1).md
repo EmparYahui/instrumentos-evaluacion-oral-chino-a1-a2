@@ -31,7 +31,7 @@ Esta evolución permite interpretar el desempeño oral como un proceso de desarr
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad del estudiante para desenvolverse en intercambios orales sencillos en chino mandarín dentro de situaciones habituales, utilizando recursos lingüísticos adecuados al nivel A2.
+Esta rúbrica permite valorar la capacidad del estudiante para desenvolverse en intercambios orales sencillos en chino dentro de situaciones habituales, utilizando recursos lingüísticos adecuados al nivel A2.
 
 Se centra en tres dimensiones:
 
@@ -58,7 +58,7 @@ Esta rúbrica permite analizar la producción oral del estudiante, prestando ate
 Se centra en tres aspectos:
 
 - **Tonos:** control de los contrastes tonales en palabras y secuencias.
-- **Sonidos:** producción de los elementos fonológicos del chino mandarín.
+- **Sonidos:** producción de los elementos fonológicos del chino.
 - **Inteligibilidad:** claridad global del mensaje.
 
 El docente seleccionará el descriptor que mejor represente el desempeño observado.
@@ -75,7 +75,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 ## Finalidad
 
-Esta rúbrica permite valorar la capacidad del estudiante para comprender y procesar mensajes orales breves en chino mandarín con menor dependencia del contexto inmediato.
+Esta rúbrica permite valorar la capacidad del estudiante para comprender y procesar mensajes orales breves en chino con menor dependencia del contexto inmediato.
 
 Se centra en tres aspectos:
 
