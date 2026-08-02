@@ -59,7 +59,7 @@ Evaluación oral; chino como lengua extranjera; MCER; evaluación formativa; rú
 
 ## Cómo citar este recurso (APA 7)
 
-Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la comunicación oral en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.1.0) [Recurso educativo abierto]. Zenodo. https://doi.org/10.5281/zenodo.21758308
+Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la comunicación oral en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.1.0) [Recurso educativo abierto]. Zenodo. https://doi.org/10.5281/zenodo.21762435
 
 Si se utiliza una versión posterior del recurso, se recomienda citar el DOI correspondiente a dicha versión.
 
