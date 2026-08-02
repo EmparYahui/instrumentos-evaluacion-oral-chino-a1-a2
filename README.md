@@ -1,0 +1,78 @@
+# Instrumentos de evaluación oral en chino como L2
+
+## Presentación
+
+Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desarrollo de la competencia oral en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del MCER).
+
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de interacción oral, tareas comunicativas o análisis de grabaciones. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos fonológicos y perceptivos específicos del chino mandarín.
+
+El conjunto está formado por:
+
+- tres rúbricas de análisis del desempeño oral:
+  - **Comunicación**, centrada en la comprensión, expresión e interacción oral;
+  - **Producción**, centrada en los aspectos fonológicos de la producción oral;
+  - **Recepción**, centrada en los procesos perceptivos y de comprensión oral;
+- una **plantilla de registro in situ**, diseñada para facilitar la recogida rápida de evidencias durante una evaluación o actividad comunicativa;
+- una guía de interpretación de evidencias orientada a la elaboración de *feedback* y *feedforward.*
+
+La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado. Los resultados obtenidos no tienen únicamente una finalidad calificadora, sino que permiten identificar dificultades concretas y orientar la mejora progresiva de la competencia oral.
+
+---
+
+# Progresión del desarrollo oral
+
+Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde a un momento de desarrollo esperado y permite observar la evolución desde la adquisición de las bases perceptivas y productivas del chino mandarín hasta una comunicación oral básica más autónoma.
+
+| Nivel MCER | Foco de desarrollo oral esperado | Principales aspectos observables |
+|---|---|---|
+| **A1 (Acceso 1)** | Construcción de las bases perceptivas y productivas del sistema oral del chino mandarín | Reconocimiento inicial de tonos y contrastes fonológicos; producción de sílabas y expresiones básicas; dependencia de modelos orales claros y repetición frecuente. |
+| **A1 (Acceso 2)** | Consolidación de patrones fonológicos y aumento de autonomía en intercambios básicos | Mayor estabilidad tonal; reducción de errores que afectan al significado; reconocimiento de expresiones habituales con menor apoyo; participación en conversaciones previsibles. |
+| **A2 (Plataforma 1)** | Ampliación de recursos lingüísticos y capacidad para procesar secuencias orales más complejas | Producción de enunciados más extensos; combinación más estable de tonos en cadena; comprensión de mensajes breves menos dependientes del contexto inmediato. |
+| **A2 (Plataforma 2)** | Desarrollo de autonomía comunicativa y menor dependencia del habla controlada | Mayor naturalidad en producción e interacción; comprensión de variaciones habituales del habla; capacidad para mantener intercambios funcionales con menor apoyo del interlocutor. |
+
+---
+
+# Organización de los instrumentos
+
+Cada nivel incluye un conjunto específico de rúbricas y una plantilla de registro adaptada al desarrollo esperado:
+
+| Nivel | Instrumento |
+|---|---|
+| A1 (Acceso 1) | [Instrumentos de evaluación oral. A1 (Acceso 1)](./A1_Acceso_1.md) |
+| A1 (Acceso 2) | [Instrumentos de evaluación oral. A1 (Acceso 2)](./A1_Acceso_2.md) |
+| A2 (Plataforma 1) | [Instrumentos de evaluación oral. A2 (Plataforma 1)](./A2_Plataforma_1.md) |
+| A2 (Plataforma 2) | [Instrumentos de evaluación oral. A2 (Plataforma 2)](./A2_Plataforma_2.md) |
+
+---
+
+# Uso de los instrumentos
+
+Los instrumentos pueden utilizarse en diferentes situaciones de evaluación y observación:
+
+- durante una interacción oral en el aula;
+- durante una prueba oral;
+- mediante el análisis posterior de una grabación;
+- como herramienta de seguimiento del progreso individual.
+
+La plantilla de registro in situ permite recoger evidencias de manera rápida mediante la selección del desempeño observado en cada indicador. Posteriormente, las rúbricas completas permiten interpretar esas evidencias y fundamentar las decisiones de evaluación.
+
+---
+
+# De la evidencia al *feedback* y al *feedforward*
+
+La observación del desempeño oral permite identificar dificultades específicas y transformarlas en orientaciones de mejora. La siguiente tabla muestra ejemplos de interpretación de evidencias y posibles actuaciones de retroalimentación.
+
+| Evidencia observada | Interpretación | Feedback | Feedforward |
+|---|---|---|---|
+| Confusión frecuente entre tonos 2 y 3 en palabras aisladas | Dificultad de discriminación tonal inicial | Distingues las palabras cuando aparecen con apoyo visual, pero todavía confundes algunos contrastes tonales. | Practica pares mínimos tonales y escucha palabras sin apoyo escrito antes de repetirlas. |
+| Producción correcta de tonos aislados pero pérdida de precisión en cadenas tonales | Falta de automatización prosódica | Controlas los tonos individuales, pero necesitas mantenerlos al hablar en secuencia. | Practica grupos de palabras y frases completas, no solo vocabulario aislado. |
+| Comprende palabras conocidas pero no identifica expresiones nuevas | Dependencia del reconocimiento léxico memorizado | Reconoces vocabulario trabajado, pero necesitas ampliar la capacidad de segmentar el habla. | Realiza actividades de escucha breve sin texto escrito e identifica unidades conocidas dentro del mensaje. |
+| Responde correctamente, pero espera siempre la repetición del interlocutor | Estrategias de interacción poco desarrolladas | La comprensión mejora cuando tienes apoyo, pero necesitas ganar autonomía ante preguntas nuevas. | Practica reformulación, solicitud de aclaración y escucha activa. |
+
+---
+
+# Consideraciones finales
+
+Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
+
+Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar el desarrollo gradual de la competencia oral en chino como lengua extranjera.
