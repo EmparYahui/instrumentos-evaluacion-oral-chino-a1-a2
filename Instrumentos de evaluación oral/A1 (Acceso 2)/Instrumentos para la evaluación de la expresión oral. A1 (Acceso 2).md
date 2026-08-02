@@ -27,7 +27,7 @@ Esta evolución permite interpretar los resultados como una orientación para el
 
 ---
 
-# Instrumento 1. Rúbrica de análisis comunicativo de la conversación
+# Instrumento 1. Rúbrica de análisis comunicativo de la producción oral
 
 ## Finalidad
 
