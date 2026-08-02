@@ -120,4 +120,18 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 <br>
 
-**Orientaciones para mejora:**  
+**Orientaciones para mejora:** 
+
+---
+
+# Orientaciones para la retroalimentación a partir de evidencias observadas
+
+La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades iniciales en la construcción de la competencia oral y orientar la intervención docente. En este nivel, la atención se centra especialmente en la percepción de contrastes fonológicos, la producción de sílabas y expresiones básicas, y la progresiva reducción de la dependencia del modelo oral.
+
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
+|---|---|---|---|
+| Confunde tonos en palabras frecuentes incluso cuando dispone de apoyo visual | La asociación entre percepción tonal y significado todavía no está consolidada | Reconoces algunas palabras, pero todavía necesitas identificar mejor los contrastes tonales que cambian el significado. | Practica pares mínimos tonales mediante actividades de escucha y repetición sin apoyo escrito. |
+| Produce sílabas correctamente de forma aislada, pero pierde precisión al repetir palabras o expresiones completas | Dificultad para integrar los elementos fonológicos dentro de una secuencia oral | Produces los sonidos básicos, pero necesitas mantener la precisión cuando unes varios elementos. | Practica palabras y expresiones completas, prestando atención al tono y al ritmo global. |
+| Requiere repetición frecuente del modelo para producir expresiones básicas | Dependencia inicial del apoyo externo para la producción oral | Puedes reproducir expresiones conocidas con ayuda, pero necesitas avanzar hacia una producción más autónoma. | Repite expresiones breves de forma progresiva sin escuchar previamente el modelo completo. |
+| Comprende palabras trabajadas en clase, pero tiene dificultades para reconocerlas en mensajes breves | Reconocimiento auditivo limitado al vocabulario memorizado | Identificas palabras conocidas, pero necesitas acostumbrarte a reconocerlas dentro de mensajes orales. | Realiza escuchas breves sin texto escrito e intenta localizar palabras conocidas dentro del mensaje. |
+| Participa en intercambios muy guiados, pero necesita apoyo para responder con autonomía | Inicio de la construcción de estrategias de interacción oral | Puedes responder en situaciones conocidas, pero todavía necesitas ganar seguridad para producir respuestas propias. | Practica preguntas y respuestas breves utilizando variaciones de estructuras ya aprendidas. |
