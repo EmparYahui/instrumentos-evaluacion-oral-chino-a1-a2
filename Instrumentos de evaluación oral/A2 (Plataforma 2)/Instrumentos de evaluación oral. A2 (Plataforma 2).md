@@ -138,3 +138,17 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 <br>
 
 **Orientaciones para mejora:**
+
+---
+
+# Orientaciones para la retroalimentación a partir de evidencias observadas
+
+La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades relacionadas con la autonomía comunicativa y orientar la intervención docente. En este nivel, la atención se centra especialmente en la naturalidad de la producción oral, la comprensión de mensajes menos controlados, la capacidad de mantener intercambios funcionales y el uso de estrategias para resolver dificultades comunicativas.
+
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
+|---|---|---|---|
+| Produce mensajes comprensibles, pero mantiene una pronunciación excesivamente controlada y poco natural | Dependencia de patrones aprendidos y escasa adaptación al habla espontánea | Tu producción es clara y precisa, pero necesitas avanzar hacia una comunicación más natural y flexible. | Practica situaciones comunicativas menos preparadas y trabaja la entonación y el ritmo global del mensaje. |
+| Mantiene los tonos en frases preparadas, pero reduce la precisión durante la interacción espontánea | Dificultad para integrar el control fonológico con la gestión de la comunicación | Controlas los aspectos fonológicos en situaciones planificadas, pero necesitas mantenerlos cuando debes responder de forma inmediata. | Practica intercambios breves sin guion previo, centrados en la fluidez y la reacción ante el interlocutor. |
+| Comprende la información principal, pero tiene dificultades ante variaciones habituales de pronunciación o velocidad | Dependencia de un input oral muy controlado | Comprendes mensajes claros, pero necesitas ampliar tu capacidad para adaptarte a diferentes formas de habla. | Escucha materiales con distintos ritmos y practica la identificación de información relevante sin apoyo escrito. |
+| Responde a preguntas directas, pero tiene dificultades para desarrollar o ampliar sus respuestas | Recursos interactivos todavía limitados | Respondes adecuadamente, pero necesitas ampliar la información y mantener la conversación durante más tiempo. | Practica estrategias de ampliación: añadir detalles, explicar motivos y relacionar ideas. |
+| Ante una dificultad de comprensión, espera la ayuda del interlocutor en lugar de utilizar estrategias propias | Uso limitado de estrategias compensatorias | Puedes mantener la interacción cuando recibes apoyo, pero necesitas resolver más situaciones de forma autónoma. | Practica reformulación, solicitud de aclaración, confirmación de significado y otras estrategias de reparación. |
