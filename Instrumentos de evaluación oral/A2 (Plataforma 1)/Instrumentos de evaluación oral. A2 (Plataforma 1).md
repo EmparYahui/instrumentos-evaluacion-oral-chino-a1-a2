@@ -138,3 +138,17 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 <br>
 
 **Orientaciones para mejora:**  
+
+---
+
+# Orientaciones para la retroalimentación a partir de evidencias observadas
+
+La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades relacionadas con la ampliación y consolidación de la competencia oral y orientar la intervención docente. En este nivel, la atención se centra especialmente en la producción de secuencias orales más extensas, la estabilidad fonológica en el habla continua, la comprensión de mensajes breves menos previsibles y el desarrollo de estrategias de interacción.
+
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
+|---|---|---|---|
+| Mantiene los tonos en palabras aisladas, pero pierde precisión en frases más largas | Dificultad para automatizar los patrones tonales en cadenas orales | Controlas los tonos en unidades breves, pero necesitas mantener la precisión cuando produces secuencias más amplias. | Practica frases completas y pequeños discursos, prestando atención a la continuidad tonal y al ritmo. |
+| Produce mensajes comprensibles, pero con pausas frecuentes y segmentación excesiva | Recursos lingüísticos disponibles, pero baja fluidez en la producción oral | Tu mensaje se entiende, aunque necesitas mejorar la continuidad y la organización de la producción. | Practica intervenciones breves preparadas y actividades de reformulación para ganar fluidez. |
+| Comprende información principal de mensajes conocidos, pero pierde detalles cuando aumenta la complejidad | Procesamiento auditivo limitado ante mayor carga lingüística | Identificas la idea general, pero necesitas mejorar la atención a detalles y relaciones entre elementos del mensaje. | Escucha mensajes breves varias veces con objetivos diferentes: identificar palabras clave, información principal y detalles. |
+| Responde adecuadamente, pero depende de preguntas muy estructuradas para mantener la interacción | Desarrollo insuficiente de estrategias comunicativas autónomas | Puedes responder en situaciones habituales, pero necesitas ampliar tus recursos para mantener el intercambio. | Practica preguntas de seguimiento, reformulación y ampliación de respuestas. |
+| Identifica palabras conocidas, pero tiene dificultades para inferir significado a partir del contexto oral | Dependencia del reconocimiento léxico directo | Reconoces vocabulario aprendido, pero necesitas utilizar más información del contexto para comprender mensajes nuevos. | Realiza actividades de escucha en las que tengas que anticipar significado mediante claves lingüísticas y situacionales. |
