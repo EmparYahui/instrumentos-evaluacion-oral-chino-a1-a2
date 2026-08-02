@@ -1,4 +1,4 @@
-# Instrumentos para la evaluación de la expresión oral
+# Instrumentos para la evaluación de la comunicación oral
 
 ## A2 MCER (Plataforma 1)
 
