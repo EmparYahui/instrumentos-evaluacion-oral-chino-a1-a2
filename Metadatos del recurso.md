@@ -4,7 +4,7 @@
 
 | Campo | Información |
 |---|---|
-| **Título** | *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2)* |
+| **Título** | *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2 MCER)* |
 | **Autora** | Empar-Yahui Liu-Zhou |
 | **Idioma del recurso** | Español |
 | **Lengua objeto <br>de evaluación** | Chino como lengua extranjera |
@@ -59,7 +59,7 @@ Evaluación oral; chino como lengua extranjera; MCER; evaluación formativa; rú
 
 ## Cómo citar este recurso
 
-Liu-Zhou, E. Y. (2026). *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2).* Recurso educativo abierto.
+Liu-Zhou, E. Y. (2026). *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2 MCER).* Recurso educativo abierto.
 
 La referencia puede adaptarse según el estilo bibliográfico empleado por cada contexto académico o institucional.
 
