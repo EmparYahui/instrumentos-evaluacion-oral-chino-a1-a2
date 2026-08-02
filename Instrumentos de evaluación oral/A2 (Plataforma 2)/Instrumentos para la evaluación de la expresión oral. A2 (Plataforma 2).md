@@ -27,7 +27,7 @@ Esta evolución permite interpretar el desempeño oral como un avance hacia una 
 
 ---
 
-# Instrumento 1. Rúbrica de análisis comunicativo de la conversación
+# Instrumento 1. Rúbrica de análisis comunicativo de la producción oral
 
 ## Finalidad
 
