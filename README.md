@@ -1,6 +1,6 @@
 # Instrumentos para la evaluación de la comunicación oral <br>en chino como lengua extranjera (A1-A2 MCER)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21758308.svg)](https://doi.org/10.5281/zenodo.21758308)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21762435.svg)](https://doi.org/10.5281/zenodo.21762435)
 
 ## Presentación
 
