@@ -77,3 +77,11 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
 
 Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la competencia oral en chino como lengua extranjera.
+
+---
+
+# Información adicional
+
+Para consultar los metadatos completos del recurso, incluyendo información sobre autoría, descripción, destinatarios, competencias, palabras clave, forma de citación y licencia, véase:
+
+[Metadatos del recurso](./Metadatos%20del%20recurso.md)
