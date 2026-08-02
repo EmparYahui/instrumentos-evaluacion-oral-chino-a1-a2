@@ -73,6 +73,28 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 ---
 
+# Cómo adaptar este recurso
+
+Este recurso educativo abierto (REA) ha sido diseñado para facilitar su reutilización y adaptación en diferentes contextos de enseñanza y aprendizaje de lenguas.
+
+Las rúbricas, plantillas de registro y orientaciones para *feedback* y *feedforward* pueden adaptarse a:
+
+* otros niveles del MCER;
+* otras lenguas meta;
+* diferentes tareas comunicativas o géneros textuales;
+* distintos contextos educativos y necesidades del alumnado.
+
+Al adaptar el recurso, se recomienda:
+
+1. mantener la coherencia entre los objetivos de aprendizaje, las evidencias recogidas y los criterios de evaluación;
+2. revisar los descriptores para asegurar su adecuación al nivel de competencia esperado;
+3. conservar la orientación formativa de los instrumentos, utilizando las evidencias para fundamentar procesos de *feedback* y *feedforward*;
+4. documentar las modificaciones realizadas para facilitar la reutilización, la colaboración y la mejora continua del recurso.
+
+Las adaptaciones deberán respetar las condiciones establecidas por la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**, indicando la autoría del recurso original y distribuyendo las obras derivadas bajo la misma licencia.
+
+---
+
 # Consideraciones finales
 
 Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
