@@ -53,7 +53,7 @@ El recurso permite observar tres dimensiones principales de la competencia oral:
 
 ## Palabras clave
 
-Evaluación oral; chino como lengua extranjera; MCER; evaluación formativa; rúbricas; competencia oral; tonos del chino mandarín; *feedback*; *feedforward*; recursos educativos abiertos.
+Evaluación oral; chino como lengua extranjera; MCER; evaluación formativa; rúbricas; competencia oral; tonos del chino; *feedback*; *feedforward*; recursos educativos abiertos.
 
 ---
 
