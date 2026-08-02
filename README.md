@@ -77,24 +77,3 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 Estos instrumentos están concebidos como herramientas de observación y apoyo a la evaluación formativa. La selección de descriptores permite identificar patrones de desempeño, mientras que el análisis de evidencias facilita una retroalimentación específica y orientada al progreso.
 
 Su estructura permite adaptar la observación a diferentes contextos docentes y utilizar los datos recogidos para acompañar la evolución progresiva de la competencia oral en chino como lengua extranjera.
-
----
-
-# Cómo citar este recurso
-
-Si utiliza este recurso en actividades docentes, investigación o difusión académica, se recomienda citarlo de la siguiente forma:
-
-Liu-Zhou, E. Y. (2026). *Instrumentos de evaluación oral en chino como lengua extranjera (A1-A2).* Recurso educativo abierto.
-
-La referencia puede adaptarse según el estilo bibliográfico empleado por cada contexto académico o institucional.
-
----
-
-# Licencia
-
-Este recurso se distribuye bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
-
-Esta licencia permite reutilizar, adaptar y redistribuir el material siempre que se reconozca la autoría, no se utilice con fines comerciales y las versiones modificadas mantengan la misma licencia.
-
-Más información sobre la licencia:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
