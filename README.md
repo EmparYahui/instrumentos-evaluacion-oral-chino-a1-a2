@@ -58,11 +58,11 @@ La plantilla de registro in situ permite recoger evidencias de manera rápida me
 
 ---
 
-# De la evidencia al *feedback* y al *feedforward*
+# De la evidencia observada a la mejora del aprendizaje
 
-La observación del desempeño oral permite identificar dificultades específicas y transformarlas en orientaciones de mejora. La siguiente tabla muestra ejemplos de interpretación de evidencias y posibles actuaciones de retroalimentación.
+La recogida de evidencias mediante las rúbricas permite identificar dificultades concretas en la competencia oral y orientar la intervención docente. La siguiente tabla muestra ejemplos de cómo interpretar algunos patrones observables y transformarlos en orientaciones de mejora mediante *feedback* y *feedforward*.
 
-| Evidencia observada | Interpretación | Feedback | Feedforward |
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
 |---|---|---|---|
 | Confusión frecuente entre tonos 2 y 3 en palabras aisladas | Dificultad de discriminación tonal inicial | Distingues las palabras cuando aparecen con apoyo visual, pero todavía confundes algunos contrastes tonales. | Practica pares mínimos tonales y escucha palabras sin apoyo escrito antes de repetirlas. |
 | Producción correcta de tonos aislados pero pérdida de precisión en cadenas tonales | Falta de automatización prosódica | Controlas los tonos individuales, pero necesitas mantenerlos al hablar en secuencia. | Practica grupos de palabras y frases completas, no solo vocabulario aislado. |
