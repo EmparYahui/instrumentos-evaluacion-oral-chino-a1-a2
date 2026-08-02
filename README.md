@@ -73,7 +73,7 @@ La recogida de evidencias mediante las rúbricas permite identificar dificultade
 
 ---
 
-# Cómo adaptar este recurso
+# Reutilización de este recurso
 
 Este recurso educativo abierto (REA) ha sido diseñado para facilitar su reutilización y adaptación en diferentes contextos de enseñanza y aprendizaje de lenguas.
 
