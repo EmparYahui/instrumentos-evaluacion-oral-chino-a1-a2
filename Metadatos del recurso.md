@@ -80,4 +80,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ## Navegación del recurso
 
 - [README del recurso](./README.md)
-- [Instrumentos de evaluación oral](./Instrumentos%20de%20evaluación%20oral/)
+- [Instrumentos para la evaluación de la comunicación oral](./Instrumentos%20de%20evaluación%20oral/)
