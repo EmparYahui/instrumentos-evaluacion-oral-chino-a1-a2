@@ -5,7 +5,7 @@
 
 Este recurso incluye un conjunto de instrumentos diseñados para observar, analizar y registrar el desempeño en competencia oral en chino como lengua extranjera en niveles iniciales e intermedios bajos (A1-A2 del MCER).
 
-Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de interacción oral, tareas comunicativas o análisis de grabaciones. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos fonológicos y perceptivos específicos del chino mandarín.
+Los instrumentos tienen como finalidad facilitar la recogida sistemática de evidencias durante actividades de interacción oral, tareas comunicativas o análisis de grabaciones. Su diseño permite combinar la observación del desempeño comunicativo con el análisis de aspectos fonológicos y perceptivos específicos del chino.
 
 El conjunto está formado por:
 
@@ -22,11 +22,11 @@ La valoración se realiza mediante la selección del descriptor (A-D) que mejor 
 
 ## Progresión de la competencia oral
 
-Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia oral esperado y permite observar la evolución desde la adquisición de las bases perceptivas y productivas del chino mandarín hasta una comunicación oral básica más autónoma.
+Los instrumentos se organizan según una progresión de niveles correspondiente al MCER (A1-A2). Cada conjunto de rúbricas responde al nivel de competencia oral esperado y permite observar la evolución desde la adquisición de las bases perceptivas y productivas del chino hasta una comunicación oral básica más autónoma.
 
 | Nivel MCER | Foco de competencia oral esperado | Principales aspectos observables |
 |---|---|---|
-| *A1<br>(Acceso 1)* | Construcción de las bases perceptivas y productivas del sistema oral del chino mandarín | Reconocimiento inicial de tonos y contrastes fonológicos; producción de sílabas y expresiones básicas; dependencia de modelos orales claros y repetición frecuente. |
+| *A1<br>(Acceso 1)* | Construcción de las bases perceptivas y productivas del sistema oral del chino | Reconocimiento inicial de tonos y contrastes fonológicos; producción de sílabas y expresiones básicas; dependencia de modelos orales claros y repetición frecuente. |
 | *A1<br>(Acceso 2)* | Consolidación de patrones fonológicos y aumento de autonomía en intercambios básicos | Mayor estabilidad tonal; reducción de errores que afectan al significado; reconocimiento de expresiones habituales con menor apoyo; participación en conversaciones previsibles. |
 | *A2<br>(Plataforma 1)* | Ampliación de recursos lingüísticos y capacidad para procesar secuencias orales más complejas | Producción de enunciados más extensos; combinación más estable de tonos en cadena; comprensión de mensajes breves menos dependientes del contexto inmediato. |
 | *A2<br>(Plataforma 2)* | Desarrollo de autonomía comunicativa y menor dependencia del habla controlada | Mayor naturalidad en producción e interacción; comprensión de variaciones habituales del habla; capacidad para mantener intercambios funcionales con menor apoyo del interlocutor. |
