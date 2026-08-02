@@ -1,6 +1,6 @@
 # Instrumentos de evaluación oral
 
-## A2 (Plataforma 1)
+## A2 MCER (Plataforma 1)
 
 Estos instrumentos están diseñados para observar y valorar el desarrollo de la competencia oral en chino como lengua extranjera correspondiente al nivel A2 (Plataforma 1) del MCER.
 
