@@ -138,3 +138,27 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 <br>
 
 **Orientaciones para mejora:**  
+
+---
+
+# Orientaciones para la retroalimentación a partir de evidencias observadas
+
+La interpretación de las evidencias recogidas mediante las rúbricas permite identificar dificultades relacionadas con la consolidación de la competencia oral y orientar la intervención docente. En este nivel, la atención se centra especialmente en la estabilización de los patrones tonales, la producción de secuencias orales más completas, la comprensión de expresiones habituales y el aumento progresivo de autonomía en intercambios básicos.
+
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
+|---|---|---|---|
+| Distingue tonos en palabras aisladas, pero mantiene confusiones en palabras de uso frecuente dentro de expresiones | Falta de estabilidad en la discriminación tonal dentro de unidades lingüísticas más amplias | Reconoces los tonos en situaciones controladas, pero todavía necesitas mantener la precisión cuando aparecen dentro de expresiones completas. | Practica palabras y expresiones frecuentes en diferentes contextos auditivos, no solo de forma aislada. |
+| Produce tonos correctamente en palabras conocidas, pero pierde precisión al hablar con mayor rapidez | Falta de automatización de los patrones fonológicos | Tu producción es adecuada cuando controlas el ritmo, pero necesitas mantener la precisión en una producción más fluida. | Practica frases breves aumentando progresivamente la velocidad sin perder el control tonal. |
+| Comprende expresiones habituales, pero tiene dificultades cuando cambia la formulación del mensaje | Dependencia de patrones memorizados y reconocimiento limitado de variantes lingüísticas | Reconoces expresiones trabajadas, pero necesitas ampliar la capacidad para comprender formas similares de expresar una idea. | Escucha diferentes versiones de mensajes breves e identifica palabras clave y estructuras conocidas. |
+| Responde correctamente en situaciones previsibles, pero necesita tiempo para formular respuestas propias | Desarrollo inicial de autonomía comunicativa | Puedes participar en intercambios habituales, pero necesitas ganar rapidez y seguridad al responder. | Practica respuestas breves con variaciones y utiliza estrategias de reformulación cuando sea necesario. |
+| Solicita repetición o confirmación con frecuencia antes de continuar la interacción | Uso limitado de estrategias de comprensión oral | Utilizas el apoyo del interlocutor para asegurar la comprensión, pero puedes desarrollar más estrategias propias. | Practica expresiones para pedir aclaraciones, confirmar información o mantener la interacción. |
+
+---
+
+## Navegación del recurso
+
+- [README del recurso](../../README.md)
+- [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
+- [A1 (Acceso 1)](../A1%20(Acceso%201)/Instrumentos%20de%20evaluación%20oral.%20A1%20(Acceso%201).md)
+- [A2 (Plataforma 1)](../A2%20(Plataforma%201)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%201).md)
+- [A2 (Plataforma 2)](../A2%20(Plataforma%202)/Instrumentos%20de%20evaluación%20oral.%20A2%20(Plataforma%202).md)
